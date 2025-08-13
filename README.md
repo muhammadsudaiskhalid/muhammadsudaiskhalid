@@ -74,8 +74,8 @@ Graphic Design, Digital Marketing, Public Speaking, Community Engagement
 ## 📫 Connect With Me
 
 - **Portfolio:** [sudaiskhalid.com](http://sudaiskhalid.com)  
-- **LinkedIn:** [linkedin.com/in/sudais-khalid](https://linkedin.com/in/sudais-khalid)  
-- **Instagram:** [@sudais.khalid](https://instagram.com/iamsudaiskhalid)  
+- **LinkedIn:** [linkedin.com/in/sudais-khalid](https://www.linkedin.com/in/sudais-khalid/)  
+- **Instagram:** [@iamsudaiskhalid](https://instagram.com/iamsudaiskhalid)  
 - **Discord Community:** [Join Here](https://discord.gg/5eD4BdAM8c)  
 - **Newsletter:** [📩 Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7358762645350424576)  
 - **Email:** muhammadsudaiskhalid.artificialintelligence@stmu.edu.pk
