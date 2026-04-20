@@ -15,7 +15,7 @@ Understand deeply. Build carefully. Deploy responsibly.
 
 ## Background
 
-AI undergraduate at **Shifa Tameer-e-Millat University** — CGPA `3.76 / 4.00` — and **President of the AI Innovation Society**.
+AI undergraduate at **Shifa Tameer-e-Millat University** — CGPA `3.73 / 4.00` — and **President of the AI Innovation Society**.
 
 Most of my work is in applied machine learning: feature engineering, evaluation design, and the gap between a model that works in a notebook and one that holds up in production. I learn by building things, breaking them, and then explaining what went wrong to someone else.
 
