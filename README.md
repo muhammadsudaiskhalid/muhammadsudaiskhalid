@@ -1,29 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24&height=220&section=header&text=Muhammad%20Sudais%20Khalid&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=AI%20Student%20%C2%B7%20ML%20Practitioner%20%C2%B7%20Builder&descColor=c7d2fe&descSize=16&descAlignY=65&animation=twinkling&stroke=6c63ff&strokeWidth=2" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=I+build+practical+AI+systems%2C+not+theoretical+noise.;Understand+deeply.+Build+carefully.+Deploy+responsibly.;President+%40+AI+Innovation+Society+%C2%B7+STMU;CGPA+3.76+%2F+4.00+%C2%B7+Islamabad%2C+Pakistan)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=muhammadsudaiskhalid&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a3e,100:6c63ff&height=200&section=header&text=Sudais%20Khalid&fontSize=52&fontColor=ffffff&fontAlignY=55&fontAlign=30&desc=AI%20Student%20%C2%B7%20Builder%20%C2%B7%20Islamabad&descColor=a5b4fc&descAlignY=75&descAlign=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1a3e,100:6c63ff&height=200&section=header&text=Sudais%20Khalid&fontSize=52&fontColor=ffffff&fontAlignY=55&fontAlign=30&desc=AI%20Student%20%C2%B7%20Builder%20%C2%B7%20Islamabad&descColor=a5b4fc&descAlignY=75&descAlign=30&animation=fadeIn" alt="header" />
+</picture>
 
 </div>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=I+build+practical+AI+systems%2C+not+theoretical+noise.;Understand+deeply.+Build+carefully.+Deploy+responsibly.;President+%40+AI+Innovation+Society+%C2%B7+STMU;CGPA+3.76+%2F+4.00+%C2%B7+Islamabad%2C+Pakistan)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadsudaiskhalid&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/muhammadsudaiskhalid?style=for-the-badge&color=6c63ff&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+<br/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║  AI undergraduate · builder · ships real systems          ║
-║  Not here for demos. Here for things that actually work.  ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  AI undergraduate · builder · ships real systems         ║
+║  Not here for demos. Here for things that actually work. ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
+
+<br/>
 
 ---
 
@@ -31,9 +39,7 @@
 
 AI undergraduate at **Shifa Tameer-e-Millat University** `CGPA 3.76 / 4.00` and **President of the AI Innovation Society**.
 
-Most of my work is in applied machine learning — the gap between a model that works in a notebook and one that holds up in production.
-I care about **feature engineering**, **evaluation design**, and making AI systems that actually do something useful.
-I learn by building things, breaking them, and then explaining what went wrong to someone else.
+Most of my work is in applied machine learning — the gap between a model that works in a notebook and one that holds up in production. I care about **feature engineering**, **evaluation design**, and making AI systems that actually do something useful. I learn by building things, breaking them, and then explaining what went wrong to someone else.
 
 ---
 
@@ -45,8 +51,8 @@ I learn by building things, breaking them, and then explaining what went wrong t
 |:---|:---|
 | `Machine Learning` | Supervised & unsupervised methods, feature selection, evaluation strategy |
 | `Recommendation Systems` | Content-based filtering, similarity metrics, user preference modelling |
-| `Emotion & Sentiment Analysis` | Speech feature extraction (MFCC, pitch, energy), text-based inference |
-| `Computer Vision` | Object detection and damage assessment with YOLOv8 |
+| `Emotion & Sentiment Analysis` | Speech feature extraction — MFCC, pitch, energy — and text-based inference |
+| `Computer Vision` | Object detection, image classification, real-world visual pipelines |
 | `Predictive Modelling` | Regression, classification, structured tabular data |
 | `Pipeline Design` | End-to-end ML pipelines from raw data to deployable output |
 
@@ -99,9 +105,9 @@ I learn by building things, breaking them, and then explaining what went wrong t
 <td width="50%" valign="top">
 
 ### [Book Recommendation System](https://github.com/muhammadsudaiskhalid/book_recommendation_system)
+![Stars](https://img.shields.io/github/stars/muhammadsudaiskhalid/book_recommendation_system?style=flat-square&color=6c63ff&labelColor=0d1117)
 
-Content-based engine using KNN and cosine similarity.
-The tricky part was getting the feature space right — raw metadata alone doesn't cut it.
+Content-based engine using KNN and cosine similarity. The tricky part was getting the feature space right — raw metadata alone doesn't cut it.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
@@ -111,9 +117,9 @@ The tricky part was getting the feature space right — raw metadata alone doesn
 <td width="50%" valign="top">
 
 ### [Speech Emotion Analysis](https://github.com/muhammadsudaiskhalid/Speech-Emotion-Analysis-for-Workplace-Wellness)
+![Stars](https://img.shields.io/github/stars/muhammadsudaiskhalid/Speech-Emotion-Analysis-for-Workplace-Wellness?style=flat-square&color=6c63ff&labelColor=0d1117)
 
-Classifies emotional states from MFCCs, pitch, and energy features.
-Built for real, noisy audio — not just clean benchmark datasets.
+Classifies emotional states from MFCCs, pitch, and energy features. Built for real, noisy audio — not just clean benchmark datasets.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-0d1117?style=flat-square)
@@ -125,9 +131,9 @@ Built for real, noisy audio — not just clean benchmark datasets.
 <td width="50%" valign="top">
 
 ### [Car Price Prediction](https://github.com/muhammadsudaiskhalid/Car-Price-Prediction-System)
+![Stars](https://img.shields.io/github/stars/muhammadsudaiskhalid/Car-Price-Prediction-System?style=flat-square&color=6c63ff&labelColor=0d1117)
 
-Regression model for vehicle price prediction.
-Focus was on feature selection and handling inconsistency in real automotive data.
+Regression model for vehicle price prediction. Focus was on feature selection and handling inconsistency in real automotive data.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Regression](https://img.shields.io/badge/Regression-0d1117?style=flat-square)
@@ -136,13 +142,13 @@ Focus was on feature selection and handling inconsistency in real automotive dat
 </td>
 <td width="50%" valign="top">
 
-### More Coming
+### [sudaiskhalid.com](https://github.com/muhammadsudaiskhalid/sudaiskhalid.com)
+![Stars](https://img.shields.io/github/stars/muhammadsudaiskhalid/sudaiskhalid.com?style=flat-square&color=6c63ff&labelColor=0d1117)
 
-Finishing the FYP and pushing it to actual use.
-Going deeper on ML theory where intuition is still hand-wavy.
-Open-source AI contributions next.
+Personal portfolio site. Built from scratch in HTML/CSS — no frameworks, no templates.
 
-![In Progress](https://img.shields.io/badge/In%20Progress-0d1117?style=flat-square&color=6c63ff)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 </td>
 </tr>
@@ -188,6 +194,15 @@ Open-source AI contributions next.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=This%20profile%20reflects%20a%20learning%20curve%2C%20not%20a%20finished%20product.&fontSize=13&fontColor=c7d2fe&fontAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=footer" />
+
+<br/>
+
+*This profile reflects a learning curve, not a finished product.*
+*If you're here for serious AI work — you're in the right place.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:0d1117&height=100&section=footer&reversal=true" />
 
 </div>
