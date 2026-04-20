@@ -184,10 +184,10 @@ Personal portfolio site built from scratch — no frameworks, no templates. Stra
 
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-sudaiskhalid.com-7c3aed?style=for-the-badge)](http://sudaiskhalid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudais--khalid-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudais-khalid/)
-[![Instagram](https://img.shields.io/badge/Instagram-iamsudaiskhalid-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamsudaiskhalid)
+[![Instagram](https://img.shields.io/badge/Instagram-iamsudaiskhalid-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudais.prime)
 [![Behance](https://img.shields.io/badge/Behance-sudaiskhalid1-%231769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sudaiskhalid1)
 [![Discord](https://img.shields.io/badge/Discord-Community-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5eD4BdAM8c)
-[![Email](https://img.shields.io/badge/Email-STMU-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsudaiskhalid.artificialintelligence@stmu.edu.pk)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msudaiskhalid.ai@gmail.com)
 
 </div>
 
