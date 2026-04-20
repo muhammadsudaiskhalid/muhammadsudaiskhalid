@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-I'm an **AI undergraduate at Shifa Tameer-e-Millat University** `CGPA: 3.73 / 4.00` and **President of the AI Innovation Society**.
+I'm an **AI undergraduate at Shifa Tameer-e-Millat University** `CGPA: 3.76 / 4.00` and **President of the AI Innovation Society**.
 
 I work on **practical AI systems** — the focus is feature selection, evaluation strategy, and real-world deployment constraints, not just model training.
 
