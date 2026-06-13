@@ -320,7 +320,7 @@ Developed supervised classification models in Python as part of real intern deli
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadsudaiskhalid&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadsudaiskhalid&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
